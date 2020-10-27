@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:-->
 
-I'm an Associate Software Engineer at Acquia contributing to CI/CD Team. I love to give back to the community, so aim to become a proud lady engineer focusing on women empowerment in STEM. I recently graduated from Svaitribai Phule Pune University, with a GPA of 9.5.
+I'm an Associate Software Engineer at Acquia contributing to CI/CD Team. I love to give back to the community, so aim to become a proud lady engineer focusing on women empowerment in STEM. I recently graduated(#Class of 2020) with a GPA of 9.5 (Always focused on Academics)
 
 - 🔭 I’m currently working on RestAPI, Data Structures and Algorithms 
 - 🌱 I’m currently learning Docker, Jenkins, AWS 
