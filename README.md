@@ -8,9 +8,9 @@
 
 Here are some ideas to get you started:-->
 
-I'm an Associate Software Engineer at Acquia contributing to CI/CD Team. I love to solve challenges(A competitve Programmer) and also to play around with Machine Learning. I love to give back to the community, so aim to become a proud lady engineer focusing on women empowerment in STEM. I recently graduated(#Class of 2020) with a GPA of 9.5 (Always focused on Academics)
+I'm an Associate Software Engineer at Acquia. I love to solve challenges(A competitve Programmer) and also to play around with Machine Learning. I love to give back to the community, so aim to become a proud lady engineer focusing on women empowerment in STEM. I recently graduated(#Class of 2020) with a GPA of 9.5 (Always focused on Academics)
 
-- 🔭 I’m currently working on RestAPI, Data Structures and Algorithms 
+- 🔭 I’m currently working on Data Structures and Algorithms 
 - 🌱 I’m currently learning Docker, Jenkins, AWS 
 - 👯 I’m looking to collaborate with coding enthusiats and contribute to more open souce projects. 
 - 💬 What can I help you with? Pretty much nerd stuff and Machine Learning. 
