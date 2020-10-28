@@ -21,3 +21,5 @@ How to Connect with me?
 ⭐ LinkedIn - linkedin.com/in/payal-bhandari-a307a8169
 
 
+[![Payals github stats](https://github-readme-stats.vercel.app/api?username=Payal-Bhandari)](https://github.com/Payal-Bhandari/github-readme-stats
+
