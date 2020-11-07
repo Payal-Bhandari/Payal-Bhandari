@@ -17,7 +17,9 @@ I'm an Associate Software Engineer at Acquia. I love to solve challenges(A compe
 <!-- - 🌱 I’m currently learning Docker, Jenkins, AWS -->
 
 How to Connect with me?
-⭐ LinkedIn - linkedin.com/in/payal-bhandari-a307a8169
+⭐ [LinkedIn](https://linkedin.com/in/payal-bhandari-a307a8169)
+⭐ [LeetCode](https://https://leetcode.com/payalbhandari)
+
 
 
 ![Payals github stats](https://github-readme-stats.vercel.app/api?username=Payal-Bhandari)
