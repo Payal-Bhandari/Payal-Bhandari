@@ -18,7 +18,7 @@ I'm an Associate Software Engineer at Acquia. I love to solve challenges(A compe
 
 How to Connect with me?
 ⭐ [LinkedIn](https://linkedin.com/in/payal-bhandari-a307a8169)
-⭐ [LeetCode](https://https://leetcode.com/payalbhandari)
+⭐ [LeetCode](https://leetcode.com/payalbhandari)
 
 
 
